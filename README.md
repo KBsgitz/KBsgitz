@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 
-<b>Hi, I'm Keon. My friends call me KB. 
+<b>Hi, I'm Keon.
 
 I have had a fascination with networking communications from a young age. I always wondered why my computer at home could only access solitaire and my friends PC could load MSN, connect and talk to people. It was like magic. Being a military brat, I have an appreciation for logic and order. This combination lead to the prospect of becoming a network engineer very interesting to me. 
 
