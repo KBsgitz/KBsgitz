@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 
-<b>Hi, I'm Keon.
+Hi, I'm Keon.
 
 I have had a fascination with networking communications from a young age. I always wondered why my computer at home could only access solitaire and my friends PC could load MSN, connect and talk to people. It was like magic. Being a military brat, I have an appreciation for logic and order. This combination lead to the prospect of becoming a network engineer very interesting to me. 
 
@@ -11,7 +11,7 @@ With the cloud takeover and increasing use of AI, the tech world is becoming eve
 
 I have just completed a year long networking and cybersecurity course this summer, to pivot into this specialism. I am now looking for opportunities to progress, whether that is a level 4+ or an entry position in employment.
 
-Outside of networking I am deeply invested in music - producing, drumming, dancing - and I really enjoy sports and martial arts.</b>
+Outside of networking I am deeply invested in music - producing, drumming, dancing - and I really enjoy sports and martial arts.
 
 <h2>👨‍💻 Networking Projects:</h2>
 
