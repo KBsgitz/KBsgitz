@@ -16,7 +16,7 @@ Outside of networking I am deeply invested in music - producing, drumming, danci
 <h2>👨‍💻 Networking Projects:</h2>
 
 - <b>Basic Lab</b>
-  - [First Lab in Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [First Lab in Packet Tracer](https://github.com/KBsgitz/firstlabLAN)
 - <b>Coming soon...</b>
   - CCNA (Packet Tracer)
   - AWS Labs
