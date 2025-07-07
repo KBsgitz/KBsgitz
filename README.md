@@ -18,7 +18,7 @@ Outside of networking I am deeply invested in music - producing, drumming, danci
 - <b>Basic Lab</b>
   - [First Lab in Packet Tracer](https://github.com/KBsgitz/firstlabLAN/blob/main/README.md)
 - <b>Coming soon...</b>
-  - CCNA (Packet Tracer)
+  - CCNA Labs (Packet Tracer)
   - AWS Labs
   - Security Labs (Packet Tracer)
   - Python Automation Scripts
