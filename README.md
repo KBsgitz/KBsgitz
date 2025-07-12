@@ -1,9 +1,9 @@
-<h1>KEON BELL<br/><br/>
+<h1>KEIRA BELL<br/><br/>
   Networking Novice</h1>
 
 <h2>About Me</h2>
 
-Hi, I'm Keon.
+Hi, I'm KB.
 
 I have had a fascination with networking communications from a young age. I always wondered why my computer at home could only access solitaire and my friends PC could load MSN, connect and talk to people. It was like magic. Being a military brat, I have an appreciation for logic and order. This combination lead to the prospect of becoming a network engineer very interesting to me. 
 
