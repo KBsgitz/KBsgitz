@@ -5,24 +5,24 @@
 
 Hi, I'm KB.
 
-I have had a fascination with networking communications from a young age. I always wondered why my computer at home could only access solitaire and my friends PC could load MSN, connect and talk to people. It was like magic. Being a military brat, I have an appreciation for logic and order. This combination lead to the prospect of becoming a network engineer very interesting to me. 
+I have had a fascination with networking communications from a young age, and how that intersects with cybersecurity and privacy. I always wondered why my computer at home could only access solitaire and my friends PC could load MSN, connect and talk to people. It was like magic. Simultaneously I very quickly learned about the risks that this technology brings and in today's world, awareness of that is as important as ever... 
 
-With the cloud takeover and increasing use of AI, the tech world is becoming even more interesting as we approach a new frontier. Having well-built, secure networks and systems is now more crucial than ever and I want to contribute in this way.
+With the cloud takeover and increasing use of AI, we approach a new frontier as our daily lives become enveloped by these systems, for better or for worse. Having well-built, secure networks and systems is now more crucial than ever. I want to contribute and assist in this process whilst protecting the human element.
 
-I have just completed a year long networking and cybersecurity course this summer, to pivot into this specialism. I am now looking for opportunities to progress, whether that is a level 4+ or an entry position in employment.
+I have a background in enterprise desktop support. This past summer I achieved a level 3 in networking & cybersecurity, and I have been accepted onto the AWS re/Start course which I am in the middle of completing. I am now looking for opportunities to progress, whether that is a level 4+ apprenticeship or an entry position in employment.
 
-Outside of networking I am deeply invested in music - producing, drumming, dancing - and I really enjoy sports and martial arts.
+Outside of this endeavour I am deeply invested in music - producing, drumming, dancing - and I really enjoy sports and martial arts.
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Basic Lab</b>
+- <b>Basic Networking Lab</b>
   - [First Lab in Packet Tracer](https://github.com/KBsgitz/firstlabLAN/blob/main/README.md)
 - <b>Coming soon...</b>
   - CCNA Labs (Packet Tracer)
   - AWS Labs
-  - Security Labs (Packet Tracer)
+  - Security Labs
   - Python Automation Scripts
-  - VPN (Azure and PfSense)
+  - VPN (PfSense)
 
 <h2> 🤳 Connect with me:</h2>
 
