@@ -1,5 +1,5 @@
 <h1>KEIRA BELL<br/><br/>
-  NET/SEC/PRIV ANALYST</h1>
+  NET/SEC/PRIV</h1>
 
 <h2>About Me</h2>
 
