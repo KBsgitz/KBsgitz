@@ -9,7 +9,7 @@ I have had a fascination with networking communications from a young age, and ho
 
 With the cloud takeover and increasing use of AI, we approach a new frontier as our daily lives become enveloped by these systems, for better or for worse. Having well-built, secure networks and systems is now more crucial than ever. I want to contribute and assist in this process whilst protecting the human element.
 
-I have a background in enterprise desktop support. This past summer I achieved a level 3 in networking & cybersecurity, and I have been accepted onto the AWS re/Start course which I am currently completing. I am studying for the CCNA, Sec+ and CIPP in my free time. I am now looking for opportunities to progress and professionally enter the world of networking/security/privacy.
+I have a background in enterprise desktop support. This past summer I achieved a level 3 in networking & cybersecurity, and I have been accepted onto the AWS re/Start course which I am currently completing to acquire a deeper understanding of cloud operations. Meanwhile, I am studying for the CCNA, Sec+ and CIPP in my free time. I am now looking for opportunities to progress and professionally enter the world of security and privacy.
 
 Outside of this endeavour I am deeply invested in music - producing, drumming, dancing - and I really enjoy sports and martial arts.
 
