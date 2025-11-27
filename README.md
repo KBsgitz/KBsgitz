@@ -19,6 +19,7 @@ Outside of this endeavour I am deeply invested in music - producing, drumming, d
   - [First Lab in Packet Tracer](https://github.com/KBsgitz/firstlabLAN/blob/main/README.md)
 - <b>AWS Labs</b>
   - [Cloud9 Python](https://github.com/KBsgitz/cloud9)
+  - [Lambda for Reporting (IAM/CloudWatch/SNS)](https://github.com/KBsgitz/lambda-report)
 - <b>Coming soon...</b>
   - CCNA Labs (Packet Tracer)
   - Security Labs
