@@ -15,13 +15,13 @@ Outside of this endeavour I am deeply invested in music - producing, drumming, d
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Basic Networking Lab</b>
-  - [First Lab in Packet Tracer](https://github.com/KBsgitz/firstlabLAN/blob/main/README.md)
+- <b>Networking Labs (Packet Tracer)</b>
+  - [Basic LAN](https://github.com/KBsgitz/firstlabLAN/blob/main/README.md)
 - <b>AWS Labs</b>
   - [Cloud9 Python](https://github.com/KBsgitz/cloud9)
   - [Lambda for Reporting (IAM/CloudWatch/SNS)](https://github.com/KBsgitz/lambda-report)
 - <b>Coming soon...</b>
-  - CCNA Labs (Packet Tracer)
+  - CCNA Labs
   - Security Labs
   - Python Automation Scripts
   - VPN (PfSense)
